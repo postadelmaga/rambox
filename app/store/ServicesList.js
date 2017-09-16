@@ -772,7 +772,7 @@ Ext.define('Rambox.store.ServicesList', {
 			,name: 'Jira'
 			,description: 'Jira Software'
 			,url: 'https://___.atlassian.net/'
-			,type: 'mail'
+			,type: 'messaging'
 			,js_unread: 'function removeElement(e){e&&e.remove()}function removeElementById(e,t){var n=document.getElementById(e);n&&t&&(n=n.parentElement),removeElement(n)}function removeElementByClass(e){var t=document.getElementsByClassName(e);t.length>0&&t[0].remove()}function setBodyWidth(){document.body.style.minWidth="400px"}function setToolbar(){var e=document.getElementById("logo"),t=e.querySelector("img");t.src="https://www.atlassian.com/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg",t.style.height="100px",removeElementByClass("aui-header-before"),removeElementById("home_link",!0),removeElementById("browse_link"),removeElementById("greenhopper_menu"),removeElementById("create-menu")}function setIssuePage(){if(assignee=document.getElementById("assignee-val")){var e=document.getElementsByClassName("aui-page-header-image");e.length>0&&(e[0].querySelector("img").src=assignee.querySelector("img").src),removeElementById("viewissuesidebar")}removeElementById("viewissue-devstatus-panel"),removeElementById("greenhopper-agile-issue-web-panel_heading"),removeElementByClass("aui-sidebar-wrapper"),removeElementByClass("toolbar-split toolbar-split-right");var e=document.getElementsByClassName("aui-page-panel");e.length>0&&(e[0].style.paddingLeft="0px")}function setPage(){setToolbar(),setIssuePage(),removeElementByClass("dashboard-tabs"),setTimeout(setBodyWidth,150)}function setFinal(){}document.onload=setPage();'
 		},
 		{
