@@ -360,6 +360,7 @@ Ext.define('Rambox.ux.WebView',{
 				}
 			}
 			if (me.type =='jira'){
+				setJiraPage();
 			}
 
 			// Prevent Title blinking (some services have) and only allow when the title have an unread regex match: "(3) Title"
