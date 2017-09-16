@@ -124,7 +124,8 @@
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/workplace.png" alt="Workplace" title="Workplace">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/fastmail.png" alt="FastMail" title="FastMail">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/hibox.png" alt="Hibox" title="Hibox">
-<img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/hipchat.png" alt="Jira" title="Jira">
+<img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/jira.png" alt="Jira" title="Jira">
+<img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/jandi.png" alt="Jandi" title="Jandi">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/threema.png" alt="Threema" title="Threema">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/messengerpages.png" alt="Messenger for Pages" title="Messenger for Pages">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/vk.png" alt="VK Messenger" title="VK Messenger">
