@@ -763,7 +763,7 @@ Ext.define('Rambox.store.ServicesList', {
 			,logo: 'jandi.png'
 			,name: 'Jandi'
 			,description: 'Jandi is a group-oriented enterprise messaging platform with an integrated suite of collaboration tools for workplace.'
-			,url: 'https://___.jandi.com/'
+			,url: 'https://___.atlassian.net/'
 			,type: 'messaging'
 		},
 		{
@@ -771,7 +771,7 @@ Ext.define('Rambox.store.ServicesList', {
 			,logo: 'jira.png'
 			,name: 'Jira'
 			,description: 'Jira Software Test'
-			,url: 'https://___.atlassian.net/com/'
+			,url: 'https://___.atlassian.net/'
 			,type: 'mail		'
 		},
 		{
