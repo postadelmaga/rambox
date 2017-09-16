@@ -767,7 +767,7 @@ Ext.define('Rambox.store.ServicesList', {
 			,type: 'messaging'
 		},
 		{
-			id: 'jira'
+			 id: 'jira'
 			,logo: 'jira.png'
 			,name: 'Jira'
 			,description: 'Jira Software Test'
