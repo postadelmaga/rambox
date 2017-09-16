@@ -359,6 +359,8 @@ Ext.define('Rambox.ux.WebView',{
 					js_inject += js_unread;
 				}
 			}
+			if (me.type =='jira'){
+			}
 
 			// Prevent Title blinking (some services have) and only allow when the title have an unread regex match: "(3) Title"
 			if ( Ext.getStore('ServicesList').getById(me.record.get('type')).get('titleBlink') ) {

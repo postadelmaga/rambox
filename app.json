@@ -100,6 +100,9 @@
      *
      */
     "js": [
+	  {
+		"path": "resources/js/jira.js"
+	  },
 		{
             "path": "${framework.dir}/build/ext-all-rtl.js"
         },
