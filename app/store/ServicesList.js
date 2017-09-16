@@ -773,6 +773,7 @@ Ext.define('Rambox.store.ServicesList', {
 			,description: 'Jira Software'
 			,url: 'https://___.atlassian.net/'
 			,type: 'messaging'
+			,js_unread: ''
 		},
 		{
 			 id: 'messengerpages'
