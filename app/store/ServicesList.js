@@ -767,6 +767,14 @@ Ext.define('Rambox.store.ServicesList', {
 			,type: 'messaging'
 		},
 		{
+			id: 'jira'
+			,logo: 'jira.png'
+			,name: 'Jira'
+			,description: 'Jira Software Test'
+			,url: 'https://___.atlassian.net/com/'
+			,type: 'mail'
+		},
+		{
 			 id: 'messengerpages'
 			,logo: 'messengerpages.png'
 			,name: 'Messenger for Pages'
