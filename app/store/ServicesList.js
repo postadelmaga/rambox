@@ -770,7 +770,7 @@ Ext.define('Rambox.store.ServicesList', {
 			 id: 'jira'
 			,logo: 'jira.png'
 			,name: 'Jira'
-			,description: 'Jira Software Test'
+			,description: 'Jira Software'
 			,url: 'https://___.atlassian.net/'
 			,type: 'messaging'
 		},
